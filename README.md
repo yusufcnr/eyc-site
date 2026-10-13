@@ -1,3 +1,3 @@
 # eyccommerce.com
 
-EYC Commerce statik sitesi. GitHub Pages üzerinde `main` dalının kökünden yayınlanır; alan adı `CNAME` dosyasında.
+EYC Commerce company site (dog mobility support). Served by GitHub Pages from the root of `main`; custom domain is set in `CNAME`.
